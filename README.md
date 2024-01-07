@@ -1,4 +1,4 @@
-#Habrparser - парсер для habr.com   
+# Habrparser - парсер для habr.com   
 Данный скрипт берёт названия статей и ссылки на них с habr.com и выводит их на экран.   
 install-python.sh - Устанавливает python и pip. Запустите от root, если они у вас не установлены.   
 install-req.sh - Устанавливает библиотеки.  Запускать не от root.   

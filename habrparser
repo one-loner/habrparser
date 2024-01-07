@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/python3 /opt/parser.py
+/usr/bin/python3 /opt/habr-parser.py
