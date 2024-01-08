@@ -34,8 +34,8 @@ kw=input('> ')
 if kw == '':
    kw = ' '
 
-url = "https://habr.com/ru/feed/"
+url = "https://habr.com/ru/hubs/business-laws/articles/"
 parse_page(url,kw)
 for i in range(2, 50):
-    url = "https://habr.com/ru/feed/page"+str(i)+"/"
+    url = "https://habr.com/ru/hubs/business-laws/articles/page"+str(i)+"/"
     parse_page(url,kw)
